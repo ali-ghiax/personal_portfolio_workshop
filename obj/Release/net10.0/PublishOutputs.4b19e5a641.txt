@@ -1,0 +1,7 @@
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\personal_portfolio_workshop.exe
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\appsettings.Development.json
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\appsettings.json
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\personal_portfolio_workshop.dll
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\personal_portfolio_workshop.deps.json
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\personal_portfolio_workshop.runtimeconfig.json
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\obj\Release\net10.0\PubTmp\Out\personal_portfolio_workshop.pdb

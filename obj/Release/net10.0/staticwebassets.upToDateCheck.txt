@@ -1,0 +1,23 @@
+wwwroot\.gitattributes
+wwwroot\about.html
+wwwroot\Achievements.html
+wwwroot\assets\css\styles.css
+wwwroot\assets\js\main.js
+wwwroot\contact.html
+wwwroot\experience.html
+wwwroot\image\1.png
+wwwroot\image\2X2A9922.JPG
+wwwroot\image\2X2A9925.png
+wwwroot\image\banner.png
+wwwroot\image\my picture.png
+wwwroot\image\t2. final with black - Copy.png
+wwwroot\index.html
+wwwroot\testimonials.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\about.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\Achievements.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\assets\css\styles.css
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\assets\js\main.js
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\contact.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\experience.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\index.html
+C:\Users\muham\OneDrive\Desktop\personal_portfolio_workshop\wwwroot\testimonials.html
